@@ -2,7 +2,7 @@
 #EXT-X-VERSION:4
 #EXT-X-TARGETDURATION:10
 #EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-KEY:METHOD=AES-128,URI="Keys/2_55504_dal_nyg_2012_h_whole_1.m3u8.key"
+#EXT-X-KEY:METHOD=AES-128,URI="https://raw.githubusercontent.com/Dedsec1/Vault-1/master/2012/Week%201/Keys/2_55504_dal_nyg_2012_h_whole_1.m3u8.key"
 #EXTINF:10,
 https://nlds82.cdnllnwnl.neulion.com/nlds_vod/nfl3/vod/2012/09/05/55504/2_55504_dal_nyg_2012_h_whole_1_4500_000000.ts
 #EXTINF:10,
