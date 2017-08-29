@@ -2,7 +2,7 @@
 #EXT-X-VERSION:4
 #EXT-X-TARGETDURATION:10
 #EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-KEY:METHOD=AES-128,URI="https://nlsk3.neulion.com/nlsk3/hls/securekey?id=82&url=/nlds_vod/nfl3/vod/2012/09/10/55519/2_55519_sd_oak_2012_h_whole_1_3000.mp4/19700101000000.m3u8.key"
+#EXT-X-KEY:METHOD=AES-128,URI="https://raw.githubusercontent.com/Dedsec1/Vault-1/master/2012/Week%201/Keys/2_55519_sd_oak_2012_h_whole_1_3000.m3u8.key"
 #EXTINF:10,
 https://nlds82.cdnllnwnl.neulion.com/nlds_vod/nfl3/vod/2012/09/10/55519/2_55519_sd_oak_2012_h_whole_1_3000_000000.ts
 #EXTINF:10,
@@ -723,7 +723,7 @@ https://nlds82.cdnllnwnl.neulion.com/nlds_vod/nfl3/vod/2012/09/10/55519/2_55519_
 https://nlds82.cdnllnwnl.neulion.com/nlds_vod/nfl3/vod/2012/09/10/55519/2_55519_sd_oak_2012_h_whole_1_3000_005940.ts
 #EXTINF:10,
 https://nlds82.cdnllnwnl.neulion.com/nlds_vod/nfl3/vod/2012/09/10/55519/2_55519_sd_oak_2012_h_whole_1_3000_005950.ts
-#EXT-X-KEY:METHOD=AES-128,URI="https://nlsk3.neulion.com/nlsk3/hls/securekey?id=82&url=/nlds_vod/nfl3/vod/2012/09/10/55519/2_55519_sd_oak_2012_h_whole_1_3000.mp4/19700101010000.m3u8.key"
+#EXT-X-KEY:METHOD=AES-128,URI="https://raw.githubusercontent.com/Dedsec1/Vault-1/master/2012/Week%201/Keys/2_55519_sd_oak_2012_h_whole_1_3000.m3u8.key"
 #EXTINF:10,
 https://nlds82.cdnllnwnl.neulion.com/nlds_vod/nfl3/vod/2012/09/10/55519/2_55519_sd_oak_2012_h_whole_1_3000_010000.ts
 #EXTINF:10,
@@ -1444,7 +1444,7 @@ https://nlds82.cdnllnwnl.neulion.com/nlds_vod/nfl3/vod/2012/09/10/55519/2_55519_
 https://nlds82.cdnllnwnl.neulion.com/nlds_vod/nfl3/vod/2012/09/10/55519/2_55519_sd_oak_2012_h_whole_1_3000_015940.ts
 #EXTINF:10,
 https://nlds82.cdnllnwnl.neulion.com/nlds_vod/nfl3/vod/2012/09/10/55519/2_55519_sd_oak_2012_h_whole_1_3000_015950.ts
-#EXT-X-KEY:METHOD=AES-128,URI="https://nlsk3.neulion.com/nlsk3/hls/securekey?id=82&url=/nlds_vod/nfl3/vod/2012/09/10/55519/2_55519_sd_oak_2012_h_whole_1_3000.mp4/19700101020000.m3u8.key"
+#EXT-X-KEY:METHOD=AES-128,URI="https://raw.githubusercontent.com/Dedsec1/Vault-1/master/2012/Week%201/Keys/2_55519_sd_oak_2012_h_whole_1_3000.m3u8.key"
 #EXTINF:10,
 https://nlds82.cdnllnwnl.neulion.com/nlds_vod/nfl3/vod/2012/09/10/55519/2_55519_sd_oak_2012_h_whole_1_3000_020000.ts
 #EXTINF:10,
