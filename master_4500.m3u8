@@ -4,7 +4,7 @@
 #EXT-X-PROGRAM-DATE-TIME:2017-08-31T22:50:30Z
 #EXT-X-TARGETDURATION:10
 #EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-KEY:METHOD=AES-128,URI="vk.m3u8.key"
+#EXT-X-KEY:METHOD=AES-128,URI="https://raw.githubusercontent.com/Dedsec1/Vault-1/master/m3u8.key"
 #EXTINF:10,
 https://neunlds45.akamaized.net/nlds/nfl/vikings/as/live/vikings_hd_4500_20170831225030.ts
 #EXTINF:10,
