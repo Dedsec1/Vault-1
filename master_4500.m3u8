@@ -3,7 +3,7 @@
 #EXT-X-PROGRAM-DATE-TIME:2017-09-07T23:20:20Z
 #EXT-X-TARGETDURATION:10
 #EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-KEY:METHOD=AES-128,URI="m3u8.key"
+#EXT-X-KEY:METHOD=AES-128,URI="https://raw.githubusercontent.com/Dedsec1/Vault-1/master/m3u8.key"
 #EXTINF:10,
 https://neunlds127.akamaized.net/nlds/nfl/patriots/as/live/patriots_hd_4500_20170907232020.ts
 #EXTINF:10,
@@ -594,7 +594,7 @@ https://neunlds127.akamaized.net/nlds/nfl/patriots/as/live/patriots_hd_4500_2017
 https://neunlds127.akamaized.net/nlds/nfl/patriots/as/live/patriots_hd_4500_20170908000910.ts
 #EXT-X-DISCONTINUITY
 #EXT-X-PROGRAM-DATE-TIME:2017-09-08T00:10:00Z
-#EXT-X-KEY:METHOD=AES-128,URI="m3u8.key"
+#EXT-X-KEY:METHOD=AES-128,URI="https://raw.githubusercontent.com/Dedsec1/Vault-1/master/m3u8.key"
 #EXTINF:10,
 https://neunlds127.akamaized.net/nlds/nfl/patriots/as/live/patriots_hd_4500_20170908001000.ts
 #EXTINF:10,
